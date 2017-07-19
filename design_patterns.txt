@@ -1,0 +1,11 @@
+Estudos sobre Design Patterns
+
+http://br.phptherightway.com/pages/Design-Patterns.html
+
+https://imasters.com.br/artigo/17673/php/design-patterns-e-o-desenvolvimento-em-php-strategy/?trace=1519021197&source=single
+
+http://blog.caelum.com.br/entendendo-o-pattern-strategy-em-php/
+
+http://www.devmedia.com.br/forum/design-patterns-php/552581
+
+https://www.youtube.com/watch?v=B3PiQygsbpY
