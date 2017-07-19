@@ -1,0 +1,25 @@
+Git é um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos na qual diversas pessoas podem contribuir simultaneamente no mesmo, editando e criando novos arquivos e permitindo que os mesmos possam existir sem o risco de suas alterações serem sobrescritas.
+
+Baixe o Github
+
+https://git-scm.com/download/win
+
+Após instalação
+
+$ git config --global user.name "YOUR NAME"
+$ git config --global user.email "YOUR EMAIL ADDRESS"
+
+Após o login, vem o clone do projeto em algum diretório do seu computador
+
+git clone https://github.com/<username>/site.git
+
+touch é para criar um arquivo  touch index.html
+
+git status
+
+
+
+git add <arquivos...> Este comando adiciona o(s) arquivo(s) em um lugar que chamamos de INDEX, que funciona como uma área do git no qual os arquivos possam ser enviados ao Github. É importante saber que ADD não está adicionando um arquivo novo ao repositório, mas sim dizendo que o arquivo (sendo novo ou não) está sendo preparado para entrar na próxima revisão do repositório.
+git commit -m "comentário qualquer" Este comando realiza o que chamamos de “commit”, que significa pegar todos os arquivos que estão naquele lugar INDEX que o comando add adicionou e criar uma revisão com um número e um comentário, que será vista por todos.
+git push Push (empurrar) é usado para publicar todos os seus commits para o github. Neste momento, será pedido a sua senha.
+git status Exibe o status do seu repositório atual
