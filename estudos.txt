@@ -1,3 +1,5 @@
 URL Aulas Python
 
 https://www.youtube.com/watch?v=ufhspPWqY8s&index=9&list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj
+
+Com Django nos cursos do udemy
